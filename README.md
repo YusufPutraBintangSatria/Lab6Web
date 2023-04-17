@@ -21,26 +21,26 @@
 
 <p>Home</P>
 
-![Gambar 1](screenshoot/1.png)
+![Gambar 1](screenshot/1.png)
 
 <p>Tambah</P>
 
-![Gambar 2](screenshoot/2.png)
+![Gambar 2](screenshot/2.png)
 
-![Gambar 3](screenshoot/3.png)
+![Gambar 3](screenshot/3.png)
 
 <p>Edit</P>
 
 
-![Gambar 4](screenshoot/4.png)
+![Gambar 4](screenshot/4.png)
 
-![Gambar 5](screenshoot/5.png)
+![Gambar 5](screenshot/5.png)
 
 <p>Hapus</P>
 
-![Gambar 6](screenshoot/6.png)
+![Gambar 6](screenshot/6.png)
 
-![Gambar 7](screenshoot/7.png)
+![Gambar 7](screenshot/7.png)
 
 <img src="https://user-images.githubusercontent.com/91085882/222731693-24383140-7623-4e7a-a528-6621380b7be8.gif">
 
